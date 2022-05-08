@@ -2,6 +2,8 @@
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
 
+## You can see my version here: https://fm-trackingdashboard.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
